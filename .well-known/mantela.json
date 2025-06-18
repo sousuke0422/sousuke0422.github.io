@@ -1,9 +1,9 @@
 {
-  "$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
-  "version": "0.0.0",
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "version": "0.1.0",
   "aboutMe": {
     "name": "rei_k Public",
-    "prefferedPrefix": ["224", "0224"],
+    "preferredPrefix": ["224", "0224"],
     "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012"
   },
   "extensions": [
@@ -30,10 +30,22 @@
       "mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
     },
     {
-      "name": "Kur0den961",
-      "prefix": "962",
+      "name": "Kur0den-tel",
+      "prefix": "961",
       "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
       "mantela": "https://www.kur0den.net/.well-known/mantela.json"
+    },
+    {
+      "name": "tobi1",
+      "prefix": "425",
+      "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
+      "mantela": "https://raw.githubusercontent.com/keitotobi1/.well-known/refs/heads/main/mantela.json"
+    },
+    {
+      "name": "YuriConoHa",
+      "prefix": "975",
+      "identifier": "9e40b39a-2964-4868-af71-ebe8e71615eb",
+      "mantela": "https://yuriko.co.nz/.well-known/mantela.json"
     }
   ]
 }
