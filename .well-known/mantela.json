@@ -8,18 +8,36 @@
   },
   "extensions": [
     {
-      "name": "1000",
-      "extension": "rei_k main",
-      "identifier": "d6bd91cb-84a9-4b4d-8b8f-eb9766048b56",
+      "name": "rei_k main",
+      "extension": "1000",
+      "identifier": "XCA2BUK6",
       "type": "phone",
       "model": "Windows11 Pro; MicroSIP"
     },
     {
-      "name": "1001",
-      "identifier": "3f263641-271e-45e8-bd7e-5af1900da214",
-      "extension": "rei_k note",
+      "name": "rei_k note",
+      "extension": "1001",
+      "identifier": "VER5ZGII",
       "type": "reserved",
       "model": "Windows11 Pro; MicroSIP?"
+    },
+    {
+      "name": "1000Hz Tone",
+      "extension": "1234",
+      "identifier": "6FOF7BTJ",
+      "type": "music",
+      "model": "MikoPBX"
+    },
+    {
+      "name": "Open FAX",
+      "extension": "5000",
+      "identifier": "APHP54GY",
+      "type": "fax",
+      "model": "MikoPBX",
+      "names": [
+        "Open FAX",
+        "受信データ公開FAX"
+      ]
     }
   ],
   "providers": [
