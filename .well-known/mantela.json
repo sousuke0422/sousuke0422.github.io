@@ -1,0 +1,39 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
+  "version": "0.0.0",
+  "aboutMe": {
+    "name": "rei_k Public",
+    "prefferedPrefix": ["224", "0224"],
+    "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012"
+  },
+  "extensions": [
+    {
+      "name": "1000",
+      "extension": "rei_k main",
+      "identifier": "d6bd91cb-84a9-4b4d-8b8f-eb9766048b56",
+      "type": "phone",
+      "model": "Windows11 Pro; MicroSIP"
+    },
+    {
+      "name": "1001",
+      "identifier": "3f263641-271e-45e8-bd7e-5af1900da214",
+      "extension": "rei_k note",
+      "type": "reserved",
+      "model": "Windows11 Pro; MicroSIP?"
+    }
+  ],
+  "providers": [
+    {
+      "name": "SiRin",
+      "prefix": "101",
+      "identifier": "906286ae-3639-453f-b500-44a910445968",
+      "mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
+    },
+    {
+      "name": "Kur0den961",
+      "prefix": "962",
+      "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+      "mantela": "https://www.kur0den.net/.well-known/mantela.json"
+    }
+  ]
+}
