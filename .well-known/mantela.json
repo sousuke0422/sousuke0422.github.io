@@ -8,6 +8,12 @@
   },
   "extensions": [
     {
+      "name": "時報",
+      "extension": "117",
+      "identifier": "WXTHVOTO",
+      "type": "music"
+    },
+    {
       "name": "rei_k main",
       "extension": "1000",
       "identifier": "XCA2BUK6",
@@ -18,8 +24,8 @@
       "name": "rei_k note",
       "extension": "1001",
       "identifier": "VER5ZGII",
-      "type": "reserved",
-      "model": "Windows11 Pro; MicroSIP?"
+      "type": "phone",
+      "model": "Windows11 Pro; MicroSIP"
     },
     {
       "name": "1000Hz Tone",
